@@ -13,5 +13,5 @@
   <img width="fit-content" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nightmare9254&show_icons=true&theme=github_dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nightmare9254&layout=compact&theme=github_dark" />
 </a>
-</>
+</p>
   
