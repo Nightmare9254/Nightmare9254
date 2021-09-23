@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Ruikuseto](https://social-rikuseto.netlify.app/)
 - 🌱 Learning more about and studying: Typescript, React, Design, testing
 - 💬 Ask me about JavaScript, Design, Animations and I will try my best to help
-- 📫 How to reach me: [adrian.sarna59@gmail.com](mailto:adrian.sarna59@gmail.com)
+- 📫 How to reach me: [night.mar9254@gmail.com](mailto:night.mar9254@gmail.com)
 - 😄 Interests: Learning new things, trying out new kinds of food, drawing, and animation
 
 <br />
