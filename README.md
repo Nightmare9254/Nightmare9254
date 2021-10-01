@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Adrian <img width="36px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="waving hand"/> </h1>
 
 - 🔭 I’m currently working on [Ruikuseto](https://social-rikuseto.netlify.app/)
-- 🌱 Learning more about and studying: Typescript, React, Design, testing
+- 🌱 Learning more about: Typescript, React, Design, testing
 - 💬 Ask me about JavaScript, Design, Animations and I will try my best to help
 - 📫 How to reach me: [night.mar9254@gmail.com](mailto:night.mar9254@gmail.com)
 - 😄 Interests: Learning new things, trying out new kinds of food, drawing, and animation
