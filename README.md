@@ -2,7 +2,6 @@
 
 - 🌱 Learning more about: Typescript, React, Design, testing
 - 💬 Ask me about JavaScript, Design, Animations and I will try my best to help
-- 📫 How to reach me: [night.mar9254@gmail.com](mailto:night.mar9254@gmail.com)
 - 😄 Interests: Learning new things, trying out new kinds of food, drawing, and animation
 
 <br />
